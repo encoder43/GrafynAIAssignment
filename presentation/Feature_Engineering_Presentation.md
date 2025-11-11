@@ -772,12 +772,3 @@ python scripts/ml_model_training.py
 
 ---
 
-## Appendix: Configuration
-
-**Setup Steps:**
-1. Copy `config/snowflake_config.json.example` to `config/snowflake_config.json`
-2. Fill in your Snowflake credentials
-3. Install dependencies: `pip install -r requirements.txt`
-4. Execute SQL scripts in Snowflake
-5. Run Python scripts for ML integration
-
