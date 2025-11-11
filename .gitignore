@@ -4,6 +4,15 @@ __pycache__/
 *$py.class
 *.so
 .Python
+.Video_Script.md
+.Project_Summary.md
+.Presentation.md
+.Setup_Guide.md
+.Documentation.md
+.SQL_Scripts.md
+.Python_Scripts.md
+.Configuration.md
+.Additional_Resources.md
 env/
 venv/
 ENV/
