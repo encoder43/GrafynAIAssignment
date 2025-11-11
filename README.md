@@ -17,13 +17,13 @@ This project demonstrates feature engineering workflows using Snowflake for data
 ├── sql/                               # Snowflake SQL scripts
 │   └── snowflake_feature_engineering.sql  # Complete setup script
 ├── scripts/                           # Python scripts for Feature Store integration
-│   ├── setup_feature_store.py         # 🚀 Automated setup script
-│   ├── snowflake_connection.py        # Snowflake connection utility
-│   ├── feature_store_manager.py       # Feature Store operations
-│   └── ml_model_training.py           # ML model training
-├── config/                            # Configuration files
-│   └── snowflake_config.json         # Your Snowflake credentials (create from example)
-└── presentation/                      # Presentation materials
+│   ├── setup_feature_store.py         
+│   ├── snowflake_connection.py       
+│   ├── feature_store_manager.py       
+│   └── ml_model_training.py           
+├── config/                           
+│   └── snowflake_config.json         (create from example)
+└── presentation/                      
     └── Feature_Engineering_Presentation.md
 ```
 
