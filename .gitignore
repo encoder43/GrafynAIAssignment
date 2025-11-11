@@ -14,6 +14,7 @@ __pycache__/
 .CONFIGURATION.md
 .ADDITIONAL_RESOURCES.md
 .VIDEO_SCRIPT.md
+.PROJECT_SUMMARY.md
 env/
 venv/
 ENV/
