@@ -13,6 +13,7 @@ __pycache__/
 .PYTHON_SCRIPTS.md
 .CONFIGURATION.md
 .ADDITIONAL_RESOURCES.md
+.VIDEO_SCRIPT.md
 env/
 venv/
 ENV/
